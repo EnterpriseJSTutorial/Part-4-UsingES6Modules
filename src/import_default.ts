@@ -1,6 +1,6 @@
 
-import Product from './models/product';
+import ProductClass from './models/product';
 
-let widget = new Product();
+let widget = new ProductClass();
 widget.name = 'Blue Widget';
 widget.price = 2.88;
