@@ -8,4 +8,4 @@ contain the source code used in the articles.
 Part 4 explains how to modularise your code using ES6 Modules
 
 You can find links to all of my articles here:
-https://medium.com/@RevJSMonkey
+https://medium.com/@dupski
